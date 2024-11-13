@@ -1,5 +1,4 @@
 print(8+8)
 print("pratik")
 print("rAN")
-print("nitu")
-print("hjdd ijqwdjiowndowqnd")
+print("ds")
